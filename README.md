@@ -1,5 +1,4 @@
 # Dynamic Spatial-Temporal 3D Multi-Object Tracking Framework
-*@ Ruihao Zeng, TransportLab, School of Civil Engineeing (Room 375, J05), The University of Sydney.*
 
 ## Information
 
@@ -9,3 +8,7 @@ As of May 18, 2023, our framework has achieved impressive rankings in the KITTI 
 - CPU-only
 - PCD-only
 - Multi-category
+
+
+More information is coming soon.
+*@ Ruihao Zeng, TransportLab, School of Civil Engineeing (Room 375, J05), The University of Sydney.*
