@@ -7,7 +7,7 @@
 
 ## Information
 
-As of May 18, 2023, our framework has achieved impressive rankings in the KITTI tracking challenge. It stands at the **fourth** position and **tenth** position, based on different detectors utilized. Furthermore, our framework proudly secures the **first** place among non-GPU-based models, showcasing its efficiency and effectiveness in tracking tasks.
+As of May 18, 2023, our framework has achieved impressive rankings in the KITTI tracking challenge. It stands at the **fourth** position and **tenth** position, based on different detectors utilized. Furthermore, our framework proudly secures the **first** place among non-GPU-based models, showcasing its efficiency and effectiveness in tracking tasks. You can find the leadboard from [here](https://www.cvlibs.net/datasets/kitti/eval_tracking.php)
 - High FPS (beyond real-time requirement)
 - Online
 - CPU-only
