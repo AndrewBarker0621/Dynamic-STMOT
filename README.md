@@ -10,5 +10,6 @@ As of May 18, 2023, our framework has achieved impressive rankings in the KITTI 
 - Multi-category
 
 
-More information is coming soon.
+More information is coming soon...
+
 *@ Ruihao Zeng, TransportLab, School of Civil Engineeing (Room 375, J05), The University of Sydney.*
